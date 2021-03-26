@@ -9,6 +9,15 @@
   <a href="https://www.linkedin.com/in/farnetani">
     <img src="https://img.shields.io/badge/-Arlei%20F.%20Farnetani%20Junior-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farnetani" />
   </a>
+  <a href="https://www.facebook.com/farnetanijr">
+    <img src="https://img.shields.io/badge/-farnetanijr-navy?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/farnetani" />
+  </a>
+  <a href="https://www.instagram.com/farnetanijr">
+    <img src="https://img.shields.io/badge/-farnetanijr-navy?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instragram.com/farnetani" />
+  </a>
+  <a href="https://www.twitter.com/farnetani">
+    <img src="https://img.shields.io/badge/-farnetani-navy?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/farnetani" />
+  </a>
   <a>
     <img src="https://img.shields.io/badge/farnetani%232888-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
