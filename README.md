@@ -47,20 +47,11 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <code><a href="#"><img height="40" src="svg/javascript.svg"></a></code>
 <code><a href="#"><img height="40" src="svg/vue.svg"></a></code>
 <code><a href="#"><img height="40" src="svg/react.svg"></a></code>
-
 <code><img height="40" src="svg/go.svg"></code>
 <code><img height="40" src="svg/java.svg"></code>
 <code><img height="40" src="svg/flutter.svg"></code>
-
-<code><img height="40" src="svg/docker.svg"></code>
-<code><img height="40" src="svg/git.svg"></code>
-<code><img height="40" src="svg/github.svg"></code>
-<code><img height="40" src="svg/npm.svg"></code>
-<code><img height="40" src="svg/amazon.svg"></code>
-
 <code><img height="40" src="svg/linux.svg"></code>
 <code><img height="40" src="svg/ubuntu.svg"></code>
-
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96894915-4c09e700-1462-11eb-9a12-c5fba0d6060f.png"></a></code>
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96895249-9c814480-1462-11eb-959a-cfa04616ad78.png"></a></code>
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96895848-419c1d00-1463-11eb-93dd-80504a14c255.png"></a></code>
@@ -72,6 +63,11 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896547-02ba9700-1464-11eb-8502-6f16de68a828.png"></a></code>
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a></code>
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896417-d99a0680-1463-11eb-9c40-dcd46edb4a1b.png"></a></code>
+<code><img height="40" src="svg/docker.svg"></code>
+<code><img height="40" src="svg/git.svg"></code>
+<code><img height="40" src="svg/github.svg"></code>
+<code><img height="40" src="svg/npm.svg"></code>
+<code><img height="40" src="svg/amazon.svg"></code>
 </p>
 
 <br>
