@@ -70,14 +70,6 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 
 <br>
 
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=farnetani&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
-/>
-
-<br>
-<br>
 ## :bar_chart: Statistics
 
 <p align="left">
@@ -87,15 +79,10 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <a href="#">
   <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=material-palenight" />
 </a>
-<br>
-<!-- <a href="#">
-  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=farnetani&repo=farnetani.github.io&theme=material-palenight" />
-</a>
--->
-<br/>
+
 <br/>
 
-## :social: Social
+## :user: Social
 
 <p align="left">
   <a href="mailto:farnetani@gmail.com">
