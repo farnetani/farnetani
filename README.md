@@ -76,34 +76,3 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
-<a href="#">
-  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=material-palenight" />
-</a>
-
-<br/>
-
-## :user: Social
-
-<p align="left">
-  <a href="mailto:farnetani@gmail.com">
-    <img src="https://img.shields.io/badge/-farnetani@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farnetani@gmail.com" />
-  </a>
-  <a href="https://www.linkedin.com/in/farnetani">
-    <img src="https://img.shields.io/badge/-Arlei%20F.%20Farnetani%20Junior-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farnetani" />
-  </a>
-  <a href="https://www.facebook.com/farnetanijr">
-    <img src="https://img.shields.io/badge/-farnetanijr-navy?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/farnetani" />
-  </a>
-  <a href="https://www.instagram.com/farnetanijr">
-    <img src="https://img.shields.io/badge/-farnetanijr-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instragram.com/farnetani" />
-  </a>
-  <a href="https://www.twitter.com/farnetani">
-    <img src="https://img.shields.io/badge/-farnetani-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/farnetani" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/farnetani%232888-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/farnetani/?tab=follow">
-    <img src="https://img.shields.io/github/followers/farnetani?label=Follow&style=social" />
-  </a>
-</p>
