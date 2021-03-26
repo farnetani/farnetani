@@ -1,6 +1,5 @@
 ### Hi there, I'm [Arlei!](https://farnetani.github.io) 👋
 
-
 <!-- <a href="https://codesandbox.io/u/farnetani">
   <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codesandbox.svg" />
 </a> -->
@@ -24,7 +23,6 @@
 <img align="right" width="360px" src="./developer.svg" />
 
 <br />
-<br />
 
 ## 👨‍🏫️ About me
 
@@ -33,17 +31,14 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 - 🔭 I’m currently working on [Farsoft Systems](https://github.com/farsoftsystems)
 - 🌱 I’m currently learning Typescript and Golang
 - 💬 Ask me about anything [here](https://github.com/farnetani/farnetani/issues)
+- 😄 Pronouns: He/His/Him
 
 <br />
-<br />
 
 
-**Languages and Tools**  
-
-<br>
+## Languages and Tools
 
 <p align="center">
-
 <code><a href="#"><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/html5.svg"></a></code>
 <code><a href="#"><img alt="Bootstrap" height="40" style="margin-right: 20px; border-radius: 8px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></a></code>
 <code><a href="#"><img alt="CSS3" height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96895848-419c1d00-1463-11eb-93dd-80504a14c255.png"></a></code>
@@ -74,5 +69,5 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 
 <p align="left">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&show_icons=true&include_all_commits=true&theme=buefy" alt="languages" height="165">
 </p>
