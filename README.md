@@ -38,11 +38,25 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 
 **Languages and Tools**  
 
-<code><img height="20" src="svg/javascript.svg"></code>
-<code><img height="20" src="svg/vue.svg"></code>
-<code><img height="20" src="svg/react.svg"></code>
-<code><img height="20" src="svg/go.svg"></code>
-<code><img height="20" src="svg/npm.svg"></code>
+<code><img height="48" src="svg/html5.svg"></code>
+<code><img height="48" src="svg/sass.svg"></code>
+<code><img height="48" src="svg/javascript.svg"></code>
+<code><img height="48" src="svg/vue.svg"></code>
+<code><img height="48" src="svg/react.svg"></code>
+<code><img height="48" src="svg/go.svg"></code>
+<code><img height="48" src="svg/flutter.svg"></code>
+
+
+<code><img height="48" src="svg/java.svg"></code>
+<code><img height="48" src="svg/linux.svg"></code>
+<code><img height="48" src="svg/ubuntu.svg"></code>
+
+<code><img height="48" src="svg/docker.svg"></code>
+<code><img height="48" src="svg/git.svg"></code>
+<code><img height="48" src="svg/github.svg"></code>
+<code><img height="48" src="svg/npm.svg"></code>
+<code><img height="48" src="svg/amazon.svg"></code>
+
 
 <br>
 
