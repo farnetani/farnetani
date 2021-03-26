@@ -42,4 +42,9 @@
 />
 
 <br>
-https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=farnetani&repo=farnetani.github.io&theme=material-palenight
+<img
+  align="right"
+  height="165"
+  src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=farnetani&repo=farnetani.github.io&theme=material-palenight"
+/>
+
