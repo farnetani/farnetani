@@ -1,4 +1,14 @@
-# Arlei Ferreira Farnetani Junior
+### Hi there, I'm [Arlei!](https://farnetani.github.io) 👋
+
+<a href="https://codesandbox.io/u/farnetani">
+  <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/farnetani">
+  <img align="left" alt="Farnetani | Twitter" width="21px" src="svg/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Farnetani's Discord" width="21px" src="svg/discord.svg" />
+</a>
 
 <img align="right" width="360px" src="./programador.svg" />
 
@@ -26,7 +36,22 @@
   </a>
 </p>
 
-<br>
+<br />
+<br />
+
+Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer from Brazil.
+
+- 🔭 I’m currently working on [Farsoft Systems](https://github.com/farsoftsystems)
+- 🌱 I’m currently learning Typescript and Golang
+- 💬 Ask me about anything [here](https://github.com/farnetani/farnetani/issues)
+
+**Languages and Tools**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 - :rocket: Skills: <strong>HTML5 | CSS3 (SASS/styled-components/Tailwind) | Golang | JavaScript (ES6+) | Vuejs | ReactJS | Node.js | NPM / Yarn | AdonisJS | PostgreSQL | Mysql | Firebird</strong>
 - :mortar_board: Studyng: <strong>React | React Native | Next.js | TypeScript | Golang</strong>.
