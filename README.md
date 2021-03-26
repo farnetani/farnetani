@@ -29,11 +29,11 @@
 Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer from Brazil.
 
 - 🔭 I’m currently working on [Farsoft Systems](https://github.com/farsoftsystems)
-- 🌱 I’m currently learning Typescript and Golang
+- 🌱 I’m currently learning Typescript, Golang, React, React Native, Flutter
 - 💬 Ask me about anything [here](https://github.com/farnetani/farnetani/issues)
 - 😄 Pronouns: He/His/Him
 
-## :tools: Languages and Tools
+## :muscle: Languages and Tools
 
 <p align="center">
 <code><a href="#"><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/html5.svg"></a></code>
