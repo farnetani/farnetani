@@ -42,9 +42,8 @@
 />
 
 <br>
-<img
-  align="right"
-  height="165"
-  src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=farnetani&repo=farnetani.github.io&theme=material-palenight"
-/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=material-palenight" />
+</a>
 
