@@ -1,6 +1,6 @@
 # Arlei Ferreira Farnetani Junior
 
-<img align="right" width="300px" src="./programador.svg" />
+<img align="right" width="360px" src="./programador.svg" />
 
 <p align="left">
   <a href="mailto:farnetani@gmail.com">
@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/farnetani">
     <img src="https://img.shields.io/badge/-Arlei%20F.%20Farnetani%20Junior-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farnetani" />
   </a>
-  <br>
   <a href="https://www.facebook.com/farnetanijr">
     <img src="https://img.shields.io/badge/-farnetanijr-navy?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/farnetani" />
   </a>
