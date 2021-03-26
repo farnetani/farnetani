@@ -48,8 +48,10 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=material-palenight" />
 </a>
+<br>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farnetani&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farnetani&repo=template-with-react-eslint-prettier-jest
+&theme=material-palenight" />
 </a>    
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farnetani&repo=farnetani.github.io&theme=material-palenight" />
