@@ -16,12 +16,17 @@
 <img align="right" width="360px" src="./programador.svg" />
 
 <br />
+<br />
 
 Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer from Brazil.
 
 - 🔭 I’m currently working on [Farsoft Systems](https://github.com/farsoftsystems)
 - 🌱 I’m currently learning Typescript and Golang
 - 💬 Ask me about anything [here](https://github.com/farnetani/farnetani/issues)
+
+<br />
+<br />
+
 
 **Languages and Tools**  
 
