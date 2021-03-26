@@ -4,15 +4,22 @@
 <!-- <a href="https://codesandbox.io/u/farnetani">
   <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codesandbox.svg" />
 </a> -->
-<a href="https://codepen.io/farnetani">
-  <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codepen.svg" />
+<a href="https://discord.gg/n9VS2htU">
+  <img align="left" alt="Farnetani's Discord" width="21px" src="svg/discord.svg" />
+</a>
+<a href="https://instagram.com/farnetanijr">
+  <img align="left" alt="Farnetani's Instagram" width="21px" src="svg/instagram.svg" />
+</a>
+<a href="https://facebook.com/farnetanijr">
+  <img align="left" alt="Farnetani's Facebook" width="21px" src="svg/facebook.svg" />
 </a>
 <a href="https://twitter.com/farnetani">
   <img align="left" alt="Farnetani | Twitter" width="21px" src="svg/twitter.svg" />
 </a>
-<a href="https://discord.gg/farnetani#2888">
-  <img align="left" alt="Farnetani's Discord" width="21px" src="svg/discord.svg" />
+<a href="https://codepen.io/farnetani">
+  <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codepen.svg" />
 </a>
+
 
 <img align="right" width="360px" src="./programador.svg" />
 
