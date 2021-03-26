@@ -33,9 +33,6 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 - 💬 Ask me about anything [here](https://github.com/farnetani/farnetani/issues)
 - 😄 Pronouns: He/His/Him
 
-<br />
-
-
 ## Languages and Tools
 
 <p align="center">
@@ -63,7 +60,7 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 
 </p>
 
-<br>
+<br/>
 
 ## :bar_chart: Statistics
 
