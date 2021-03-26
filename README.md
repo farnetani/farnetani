@@ -51,6 +51,7 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <code><a href="#"><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/vue.svg"></a></code>
 <code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/go.svg"></code>
 <code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/java.svg"></code>
+<code><a href="#"><img alt="Android" height="40" style="margin-right: 20px; border-radius: 8px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg"></a></code>
 <code><a href="#"><img alt="PHP" height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896194-9b044c00-1463-11eb-9a11-5e5c990bee74.png"></a></code>
 <code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/flutter.svg"></code>
 <code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/linux.svg"></code>
@@ -58,9 +59,10 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <code><a href="#"><img alt="MongoDB" height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896307-bbcca180-1463-11eb-8e5e-b80399cadcea.png"></a></code>
 <code><a href="#"><img alt="Docker" height="40" style="margin-right: 20px; border-radius: 8px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></code>
 <code><a href="#"><img alt="Git" height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896547-02ba9700-1464-11eb-8502-6f16de68a828.png"></a></code>
+<code><a href="#"><img alt="Mysql" height="40" style="margin-right: 20px; border-radius: 8px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></a></code>
 <code><a href="#"><img alt="Postgres" height="40" style="margin-right: 20px; border-radius: 8px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a></code>
 <code><a href="#"><img alt="Redis" height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896417-d99a0680-1463-11eb-9c40-dcd46edb4a1b.png"></a></code>
-<code><a href="#"><img alt="Bootstrap" height="40" style="margin-right: 20px; border-radius: 8px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a></code>
+<code><a href="#"><img alt="Bootstrap" height="40" style="margin-right: 20px; border-radius: 8px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></a></code>
 
 </p>
 
