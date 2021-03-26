@@ -4,7 +4,7 @@
   <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codesandbox.svg" />
 </a> -->
 <a href="https://codepen.io/farnetani">
-  <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codesandbox.svg" />
+  <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codepen.svg" />
 </a>
 <a href="https://twitter.com/farnetani">
   <img align="left" alt="Farnetani | Twitter" width="21px" src="svg/twitter.svg" />
@@ -30,10 +30,6 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-- :rocket: Skills: <strong>HTML5 | CSS3 (SASS/styled-components/Tailwind) | Golang | JavaScript (ES6+) | Vuejs | ReactJS | Node.js | NPM / Yarn | AdonisJS | PostgreSQL | Mysql | Firebird</strong>
-- :mortar_board: Studyng: <strong>React | React Native | Next.js | TypeScript | Golang</strong>.
-- :briefcase: CEO at Farsoft Systems.
 
 <br>
 
