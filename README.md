@@ -1,5 +1,6 @@
 ### Hi there, I'm [Arlei!](https://farnetani.github.io) 👋
 
+
 <!-- <a href="https://codesandbox.io/u/farnetani">
   <img align="left" alt="Farnetani | CodeSandbox" width="20px" src="./svg/codesandbox.svg" />
 </a> -->
@@ -9,7 +10,7 @@
 <a href="https://twitter.com/farnetani">
   <img align="left" alt="Farnetani | Twitter" width="21px" src="svg/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.gg/farnetani#2888">
   <img align="left" alt="Farnetani's Discord" width="21px" src="svg/discord.svg" />
 </a>
 
