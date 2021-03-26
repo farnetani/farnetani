@@ -60,6 +60,8 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <code><a href="#"><img alt="Git" height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896547-02ba9700-1464-11eb-8502-6f16de68a828.png"></a></code>
 <code><a href="#"><img alt="Postgres" height="40" style="margin-right: 20px; border-radius: 8px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a></code>
 <code><a href="#"><img alt="Redis" height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896417-d99a0680-1463-11eb-9c40-dcd46edb4a1b.png"></a></code>
+<code><a href="#"><img alt="Bootstrap" height="40" style="margin-right: 20px; border-radius: 8px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a></code>
+
 </p>
 
 <br>
