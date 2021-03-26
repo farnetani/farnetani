@@ -42,16 +42,15 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 
 <p align="center">
 
-<code><a href="#"><img height="40" src="svg/html5.svg"></a></code>
-<code><a href="#"><img height="40" src="svg/sass.svg"></a></code>
-<code><a href="#"><img height="40" src="svg/javascript.svg"></a></code>
-<code><a href="#"><img height="40" src="svg/vue.svg"></a></code>
-<code><a href="#"><img height="40" src="svg/react.svg"></a></code>
-<code><img height="40" src="svg/go.svg"></code>
-<code><img height="40" src="svg/java.svg"></code>
-<code><img height="40" src="svg/flutter.svg"></code>
-<code><img height="40" src="svg/linux.svg"></code>
-<code><img height="40" src="svg/ubuntu.svg"></code>
+<code><a href="#"><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/html5.svg"></a></code>
+<code><a href="#"><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/sass.svg"></a></code>
+<code><a href="#"><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/javascript.svg"></a></code>
+<code><a href="#"><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/vue.svg"></a></code>
+<code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/go.svg"></code>
+<code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/java.svg"></code>
+<code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/flutter.svg"></code>
+<code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/linux.svg"></code>
+<code><img style="margin-right: 20px; border-radius: 8px" height="40" src="svg/ubuntu.svg"></code>
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96894915-4c09e700-1462-11eb-9a12-c5fba0d6060f.png"></a></code>
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96895249-9c814480-1462-11eb-959a-cfa04616ad78.png"></a></code>
 <code><a href="#"><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96895848-419c1d00-1463-11eb-93dd-80504a14c255.png"></a></code>
