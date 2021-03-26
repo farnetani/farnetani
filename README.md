@@ -26,6 +26,8 @@
 <br />
 <br />
 
+## 👨‍🏫️ About me
+
 Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer from Brazil.
 
 - 🔭 I’m currently working on [Farsoft Systems](https://github.com/farsoftsystems)
@@ -76,10 +78,12 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 
 <br>
 <br>
+## :bar_chart: Statistics
 
-<a href="#">
-  <img align="left" height="165"  src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Farnetani's github stats" />
-</a>
+<p align="left">
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 <a href="#">
   <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=material-palenight" />
 </a>
@@ -90,6 +94,9 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 -->
 <br/>
 <br/>
+
+## :social: Social
+
 <p align="left">
   <a href="mailto:farnetani@gmail.com">
     <img src="https://img.shields.io/badge/-farnetani@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farnetani@gmail.com" />
