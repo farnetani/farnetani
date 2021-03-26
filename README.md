@@ -19,7 +19,7 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3 (SASS/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | AdonisJS | PostgreSQL.</strong>
+- :rocket: Skills: <strong>HTML5 | CSS3 (SASS/styled-components/Tailwind) | JavaScript (ES6+) | Vuejs | ReactJS | Node.js | NPM / Yarn | AdonisJS | PostgreSQL | Mysql | Firebird</strong>
 - :mortar_board: Studyng: <strong>React | React Native | Next.js | TypeScript | Golang</strong>.
 - :briefcase: CEO at Farsoft Systems.
 
