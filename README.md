@@ -41,18 +41,15 @@
   src="https://github-readme-stats.vercel.app/api?username=farnetani&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
 
-<br>
+<br/>
+
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Farnetani's github stats" />
+  <img align="left" height="165"  src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Farnetani's github stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=material-palenight" />
+  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&theme=material-palenight" />
 </a>
 <br>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farnetani&repo=template-with-react-eslint-prettier-jest
-&theme=material-palenight" />
-</a>    
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farnetani&repo=farnetani.github.io&theme=material-palenight" />
+  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=farnetani&repo=farnetani.github.io&theme=material-palenight" />
 </a>
