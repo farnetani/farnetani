@@ -21,7 +21,7 @@
 </a>
 
 
-<img align="right" width="360px" src="./programador.svg" />
+<img align="right" width="360px" src="./developer.svg" />
 
 <br />
 <br />
