@@ -71,4 +71,5 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 </p>
 
 <br/>
-![](https://komarev.com/ghpvc/?username=farnetani&style=flat-square)
+
+![](https://komarev.com/ghpvc/?username=farnetani)
