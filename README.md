@@ -69,3 +69,6 @@ Hi, I'm Arlei F. Farnetani Junior, a passionate self-taught fullstack developer 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=farnetani&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnetani&layout=compact&show_icons=true&include_all_commits=true&theme=buefy" alt="languages" height="165">
 </p>
+
+<br/>
+![](https://komarev.com/ghpvc/?username=farnetani&style=flat-square)
